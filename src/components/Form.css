@@ -1,0 +1,29 @@
+body{
+    margin-left: 20px;
+}
+
+
+
+input, textarea{
+    background-color: bisque;
+    border-color: bisque;
+    padding: 5px;
+    border-radius: 4px;
+    margin-top: 5px;
+}
+
+button{
+    background-color: tan;
+    padding-left: 10px;
+    padding-right: 10px;
+    margin-top: 10px;
+    border-radius: 4px;
+}
+
+form, label, input, textarea{
+    width: 300px;
+}
+
+.checkin{
+    width: 40px !important;
+}
